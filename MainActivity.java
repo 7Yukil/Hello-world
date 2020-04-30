@@ -1,8 +1,3 @@
-# Hello-world
-
-
-
-
 package cn.itcast.myapplication;
 
 import androidx.annotation.NonNull;
